@@ -1,4 +1,4 @@
-# PortfolioProject6
+# Pizza Shop Project
 Data cleaning for a pizza shop.
 Evaluate total revenue of the shop.
 Evaluate average order.
